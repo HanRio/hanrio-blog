@@ -1,3 +1,12 @@
 title: HanRio의 블로그
 description: 나의 첫 GitHub Pages 블로그
 theme: minima
+url: "https://hanrio.github.io"
+baseurl: "/hanrio-blog"
+
+# Add page titles, descriptions, canonical URLs, and social-sharing metadata.
+plugins:
+  - jekyll-seo-tag
+
+# Generate a sitemap.xml for search engines.
+
